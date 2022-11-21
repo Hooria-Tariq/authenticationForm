@@ -1,0 +1,45 @@
+body{
+    background-color:lavender;
+}
+.container{
+    background-color:whitesmoke;
+    margin: 40%;
+    margin-left: 38%;
+    margin-top: 6%;
+    width: 20%;
+    text-align: center;
+    height: 500px;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+img {
+    border-radius: 50%;
+width: 44%;  }
+.btn{
+    background-color: green;
+    width: 75%;
+    color: white;
+    border-style: none;
+    height: 40px;
+    margin-left: 3%;
+
+}
+a{
+    text-decoration: none;
+    color: grey;
+}
+p{
+    color: grey;
+}
+input{
+    display: block;
+    margin: 6%;
+    margin-left: 13%;
+    height: 30px;
+    width: 75%;
+    border: none;
+    height: 40px;
+
+}
+input  ::placeholder{
+font-weight: bold;
+}
